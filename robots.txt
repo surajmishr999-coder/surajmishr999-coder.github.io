@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://surajmishr999-coder.github.io/sitemap.xml
